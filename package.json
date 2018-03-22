@@ -1,0 +1,19 @@
+{
+  "name": "node-collect",
+  "version": "1.0.0",
+  "description": "爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "怕从"
+  ],
+  "author": "walker",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "koa": "^2.5.0",
+    "superagent": "^3.8.2"
+  }
+}
